@@ -1,0 +1,40 @@
+.container {
+    position: relative;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    .buttons{
+        height: 100%;
+    }
+}
+
+.prevButton {
+    position: absolute;
+    left: 0;
+    z-index: 999;
+    cursor: pointer;
+    transition: 1s ease-out;
+
+    &:hover{
+       background-color: #000;
+
+    }
+    &:active{
+        background-color: #E2AB3F;
+    }
+}
+
+.nextButton {
+    position: absolute;
+    right: 0;
+    z-index: 999;
+    transition: 1s ease-out;
+    cursor: pointer;
+
+    &:hover{
+        background-color: #000;
+    }
+    &:active{
+        background-color: #E2AB3F;
+    }
+}
