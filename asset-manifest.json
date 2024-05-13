@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cappa/static/css/main.19bcc74f.css",
+    "main.js": "/cappa/static/js/main.7055e82b.js",
+    "static/media/bg2.svg": "/cappa/static/media/bg2.0d344a60db9128583c9c.svg",
+    "static/media/bg1.svg": "/cappa/static/media/bg1.cc8bd1028ad20bf4d06d.svg",
+    "index.html": "/cappa/index.html",
+    "main.19bcc74f.css.map": "/cappa/static/css/main.19bcc74f.css.map",
+    "main.7055e82b.js.map": "/cappa/static/js/main.7055e82b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19bcc74f.css",
+    "static/js/main.7055e82b.js"
+  ]
+}
